@@ -47,7 +47,7 @@ It serves as a collection for learning, customization, and building role-based p
 - Clean UI  
 - Responsive Design  
 - Easy Customization  
-- Section Based Layout  
+- Section Layout  
 - Portfolio Ready  
 
 </td>
