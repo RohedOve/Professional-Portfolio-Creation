@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Web-Development.jpg" width="100%">
+  <img src="Portfolio.jpg" width="100%">
 </p>
 
 ------------------------------------------------------------------------
