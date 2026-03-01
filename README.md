@@ -6,7 +6,7 @@
 
 ## 📌 About This Repository
 
-This repository contains multiple **professional portfolio website templates** organized in one place.
+This repository contains multiple professional portfolio website templates organized in one place.
 It serves as a collection for learning, customization, and building role-based portfolios for real-world use.
 
 ### ✅ Included Portfolio Templates
@@ -21,7 +21,7 @@ It serves as a collection for learning, customization, and building role-based p
   A developer portfolio layout for projects, skills, and contact information.
 
 - **Professional-Portfolio**  
-  Clean professional portfolio template .
+  Clean professional portfolio template for personal uses.
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ It serves as a collection for learning, customization, and building role-based p
 
 <td width="33%" valign="top" style="padding:25px; border:1px solid #30363d;">
 
-<h2>✨ Key Features</h2>
+<h2>✨Key Features</h2>
 
 - Clean UI  
 - Responsive Design  
